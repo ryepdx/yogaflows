@@ -58,6 +58,8 @@ ul#asanas {
     background-color: white;
     text-align: center;
     vertical-align: top;
+    white-space: normal;
+    line-height: 1.25em;
     
     /* Safari 4-5, Chrome 1-9 */
     background: -webkit-gradient(radial, center center, 0, center center, 460, from(#FFF), to(#FFD));
