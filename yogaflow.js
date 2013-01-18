@@ -157,7 +157,6 @@ window.onload = function () {
     var asanas = ['Angle',
  'Arm-Pressing Posture',
  'Auspicious Pose',
- 'Awkward Chair Pose',
  'Balance Posture',
  'Bed',
  'Belly-Revolving Posture',
