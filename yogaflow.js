@@ -198,7 +198,7 @@ window.onload = function () {
  'Ear-Pressing',
  'Easy',
  'Eight-Angle',
- "Elephant's Pose Trunk",
+ "Elephant's Trunk",
  'Equal Standing',
  "Eternal One's Pose",
  'Extended Hand-To-Big-Toe',
